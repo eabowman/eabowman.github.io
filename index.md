@@ -1,5 +1,5 @@
 
-![image]: (https://github.com/eabowman/eabowman.github.io/Photos/Santa_teresa.jpg)
+![image]: (/Photos/Santa_teresa.jpg)
 
 I am a graduate student at the University of Arizona where I work with Dr. Betsy Arnold. I am interested in addressing the interplay of host genotype, environment, and fungal
 symbiont communities in order to better understand the effect of local adaptation on host performance and wider ecosystem processes.
