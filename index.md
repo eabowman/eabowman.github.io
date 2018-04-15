@@ -1,5 +1,5 @@
 
-[image]: eabowman.github.io/Photos/Santa_teresa.jpg
+![image]: (eabowman.github.io/Photos/Santa_teresa.jpg)
 
 I am a graduate student at the University of Arizona where I work with Dr. Betsy Arnold. I am interested in addressing the interplay of host genotype, environment, and fungal
 symbiont communities in order to better understand the effect of local adaptation on host performance and wider ecosystem processes.
@@ -8,6 +8,6 @@ For my dissertation, I am looking at how abiotic and biotic factors related to c
 
 I received a B.S. in Botany from Oregon State University in 2014, before coming to Dr. Arnold’s lab for a M.S. in fall 2014 and then remaining for a PhD in fall 2016. 
 
-[Curriculum Vitae] (eabowman.github.io/Photos/Bowman_CV_2018.pdf)
+[Curriculum Vitae] (eabowman.github.io/Bowman_CV_2018.pdf)
 
 Please feel free to contact me at eabowman@email.arizona.edu if you have questions.
