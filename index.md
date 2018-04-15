@@ -7,6 +7,6 @@ I received a B.S. in Botany from Oregon State University in 2014, before coming 
 
 [Curriculum Vitae](/Bowman_CV_2018.pdf)
 
-Please feel free to contact me at eabowman@email.arizona.edu if you have questions.
+Please feel free to contact me at <eabowman@email.arizona.edu> if you have questions.
 
 ![image](/Photos/Santa_teresa.jpg)
