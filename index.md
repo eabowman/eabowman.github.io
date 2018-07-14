@@ -7,6 +7,7 @@ In my doctoral work, I am studying how abiotic and biotic factors related to cli
 
 I received a B.S. in Botany from Oregon State University in 2014, before coming to Dr. Arnold’s lab for a M.S. in fall 2014 and then, because I developed an appreciation for both the Sky Islands in Arizona and the outreach the Arnold lab does, I decided to pursue my PhD at the U of A.
 
+---
 [Distributions of ectomycorrhizal and foliar endophytic fungal communities associated with *Pinus ponderosa* along a spatially constrained elevation gradient](https://doi.org/10.1002/ajb2.1072)
 
 [Curriculum Vitae](/Bowman_CV_2018.pdf)
