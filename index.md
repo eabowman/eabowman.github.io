@@ -1,5 +1,5 @@
 
-Welcome and thank you for visiting my site!
+# About me
 
 I am a fungal and evolutionary ecologist interested in the development and maintenance of multipartite interactions, as well as the immediate and longterm outcomes of symbiotic relationships (e.g. establishment of symbiosis and nature of symbiotic interaction). Research indicates that host genotype, environment, and the composition of fungal symbiont communities can affect the outcome of symbioses leading to variation in how these microbial communities impact host performance and wider ecosystem processes. Understanding these interactions is integral to discerning ecological and evolutionary patterns within host-symbiont communities, as well as understanding how these interactions will be affected by perturbation, e.g. climate change. 
 
