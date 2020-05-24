@@ -9,7 +9,7 @@ Previously, I received a B.S. in Botany from Oregon State University in 2014, be
 
 ---
 
-[Curriculum Vitae](/Bowman_CV_2019.pdf)
+[Curriculum Vitae](/Bowman_CV_2020.pdf)
 
 Please feel free to contact me at <eabowman@email.arizona.edu> if you have questions.
 
